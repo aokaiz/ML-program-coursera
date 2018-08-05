@@ -1,1 +1,1 @@
-# ML-program-coursera
+# Programming assignment of Coursera Machine Learning
